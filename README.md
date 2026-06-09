@@ -18,10 +18,10 @@ PC installed with SCILAB.
 
 
 
-
-
 # RESULT: 
 Thus the Multirate-DSP-using-Decimation-and-Interpolation using python was performed and verified.
+
+
 
 
 
