@@ -16,5 +16,12 @@ PC installed with SCILAB.
 <img width="759" height="715" alt="image" src="https://github.com/user-attachments/assets/ba978c20-e7fd-456f-bfe0-9f39bb649d48" />
 
 
+
+
+
+
 # RESULT: 
 Thus the Multirate-DSP-using-Decimation-and-Interpolation using python was performed and verified.
+
+
+
